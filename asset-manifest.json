@@ -306,17 +306,17 @@
     "react-syntax-highlighter_languages_refractor_yaml.js.map": "/gitlandingpage.git/static/js/react-syntax-highlighter_languages_refractor_yaml.a90c243a.chunk.js.map",
     "runtime-main.js": "/gitlandingpage.git/static/js/runtime-main.6d4eeada.js",
     "runtime-main.js.map": "/gitlandingpage.git/static/js/runtime-main.6d4eeada.js.map",
-    "static/js/153.df85355d.chunk.js": "/gitlandingpage.git/static/js/153.df85355d.chunk.js",
-    "static/js/153.df85355d.chunk.js.map": "/gitlandingpage.git/static/js/153.df85355d.chunk.js.map",
+    "static/js/153.676dcfd1.chunk.js": "/gitlandingpage.git/static/js/153.676dcfd1.chunk.js",
+    "static/js/153.676dcfd1.chunk.js.map": "/gitlandingpage.git/static/js/153.676dcfd1.chunk.js.map",
     "static/js/154.abca2175.chunk.js": "/gitlandingpage.git/static/js/154.abca2175.chunk.js",
     "static/js/154.abca2175.chunk.js.map": "/gitlandingpage.git/static/js/154.abca2175.chunk.js.map",
     "index.html": "/gitlandingpage.git/index.html",
-    "static/js/153.df85355d.chunk.js.LICENSE.txt": "/gitlandingpage.git/static/js/153.df85355d.chunk.js.LICENSE.txt",
+    "static/js/153.676dcfd1.chunk.js.LICENSE.txt": "/gitlandingpage.git/static/js/153.676dcfd1.chunk.js.LICENSE.txt",
     "static/media/downArrow.svg": "/gitlandingpage.git/static/media/downArrow.23758f40.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.6d4eeada.js",
-    "static/js/153.df85355d.chunk.js",
+    "static/js/153.676dcfd1.chunk.js",
     "static/js/main.eff9f67a.chunk.js"
   ]
 }
